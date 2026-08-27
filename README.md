@@ -32,3 +32,6 @@ The poller uploads raw file bytes (PDF, XLSX, CSV, or plain text) to process_fil
 ## Tests
 
 Run python3 run_tests.py and python3 run_demo.py.
+
+Dashboard: https://smb-contractor-1099-payment-threshold-tr.vokrix.co
+Vercel: smb-contractor-1099-payment-threshold-tr
