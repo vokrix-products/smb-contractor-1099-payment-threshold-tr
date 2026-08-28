@@ -15,7 +15,7 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
 JOBS_URL = f"{SUPABASE_URL}/rest/v1/jobs"
 RECORDS_URL = f"{SUPABASE_URL}/rest/v1/records"
-NOTIFICATIONS_URL = "https://njyvnmczoydsaewvfhyq.supabase.co/rest/v1/notifications"
+NOTIFICATIONS_URL = f"{SUPABASE_URL}/rest/v1/notifications"
 
 
 def get_headers():
